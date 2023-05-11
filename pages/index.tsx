@@ -1,5 +1,5 @@
 import Image from 'next/image'
-import Input from "../components/todos";
+import Input from "@/app/components/todos";
 
 export default function Home() {
   return (
